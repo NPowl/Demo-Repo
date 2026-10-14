@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "sha": "ed401d58f2ae70f1a150fa062b8ac004b4486e05",
+  "short": "ed401d5",
+  "platform": "windows",
+  "repo": "NPowl/Demo-Repo",
+  "pages_url": "https://NPowl.github.io/Demo-Repo",
+  "dash_url": "https://NPowl.github.io/Demo-Repo/",
+  "labview_version": "2026",
+  "commit": {
+   "message": "Merge branch 'main' of https://github.com/NPowl/Demo-Repo",
+   "author": "NPowl",
+   "date": "2026-10-14T09:43:57+01:00"
+  },
+  "generated_utc": "2026-10-14 09:28 UTC",
+  "spdx_version": "CycloneDX 1.5",
+  "created": ""
+ },
+ "summary": {
+  "total_packages": 0
+ },
+ "platforms": [
+  {
+   "id": "windows",
+   "url": null
+  },
+  {
+   "id": "linux",
+   "url": "linux/results.json"
+  }
+ ],
+ "packages": [],
+ "tooling": {
+  "missing": []
+ }
+}

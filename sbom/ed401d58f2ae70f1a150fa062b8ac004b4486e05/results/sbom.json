@@ -1,0 +1,31 @@
+{
+  "$schema": "http://cyclonedx.org/schema/bom-1.5.schema.json",
+  "bomFormat": "CycloneDX",
+  "components": [],
+  "dependencies": [
+    {
+      "ref": "pkg:vipm/Demo-Project"
+    }
+  ],
+  "metadata": {
+    "component": {
+      "bom-ref": "pkg:vipm/Demo-Project",
+      "name": "Demo Project",
+      "type": "application"
+    },
+    "timestamp": "2026-10-14T09:28:16.481Z",
+    "tools": {
+      "components": [
+        {
+          "name": "vipm-cli",
+          "publisher": "JKI",
+          "type": "application",
+          "version": "2026.3.0"
+        }
+      ]
+    }
+  },
+  "serialNumber": "urn:uuid:12eafbe6-eb54-4801-a6f3-779ae5779491",
+  "specVersion": "1.5",
+  "version": 1
+}
