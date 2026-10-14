@@ -1,0 +1,10 @@
+{
+  "platform": "windows",
+  "files": [
+    {
+      "file": "Add.vi",
+      "type": "modified",
+      "report": "Add.vi/index.html"
+    }
+  ]
+}
