@@ -1,0 +1,12 @@
+{
+    "repo":  "NPowl/Demo-Repo",
+    "sha":  "ed401d58f2ae70f1a150fa062b8ac004b4486e05",
+    "ref":  "refs/heads/main",
+    "platform":  "windows",
+    "arch":  "AMD64",
+    "labview_version":  "LabVIEW 2026",
+    "built_at":  "2026-10-14T09:22:40Z",
+    "specs":  [
+
+              ]
+}
