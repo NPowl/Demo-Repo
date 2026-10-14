@@ -12,6 +12,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Add.lvtest" Type="TestItem" URL="../Add.lvtest">
+			<Property Name="utf.test.bind" Type="Str">Add.vi</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">1D58C6A2-FCC4-4118-8EE5-E8788F74292C</Property>
+		</Item>
 		<Item Name="Add.vi" Type="VI" URL="../Add.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
