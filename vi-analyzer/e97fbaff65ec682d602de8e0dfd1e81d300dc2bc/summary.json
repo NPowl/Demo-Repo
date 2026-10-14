@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "sha": "e97fbaff65ec682d602de8e0dfd1e81d300dc2bc",
+    "short": "e97fbaf",
+    "platform": "windows",
+    "repo": "NPowl/Demo-Repo",
+    "pages_url": "https://NPowl.github.io/Demo-Repo",
+    "pages_base": "../..",
+    "commit": {
+      "message": "Creation of Project",
+      "author": "NPowl",
+      "date": "2026-10-14T09:23:11+01:00"
+    },
+    "generated_utc": "2026-10-14 08:50 UTC",
+    "analysis_date": "Wednesday, October 14, 2026 8:50:30 AM",
+    "duration": "00:01:16.48"
+  },
+  "summary": {
+    "vis_analyzed": 19,
+    "tests_run": 1976,
+    "passed": 1844,
+    "failed": 132,
+    "skipped": 0,
+    "findings": 8,
+    "vis_with_findings": 1
+  },
+  "errors": {
+    "vi_not_loadable": 0,
+    "test_not_loadable": 0,
+    "test_not_runnable": 0,
+    "test_error_out": 0
+  },
+  "rule_counts": [
+    {
+      "test": "Panel Size and Position",
+      "severity": "style",
+      "count": 2,
+      "vi_count": 1
+    },
+    {
+      "test": "Auto Error Handling Enabled",
+      "severity": "correctness",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Comment Usage",
+      "severity": "documentation",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Control Terminal Wiring",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Default Icon",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Enabled Debugging",
+      "severity": "performance",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "VI Documentation",
+      "severity": "documentation",
+      "count": 1,
+      "vi_count": 1
+    }
+  ]
+}
