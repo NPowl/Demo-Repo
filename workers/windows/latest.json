@@ -1,7 +1,7 @@
 {
-  "version": "win-982773c5fc86",
+  "version": "win-56fa3e131926",
   "platform": "windows",
-  "manifest_url": "https://npowl.github.io/Demo-Repo/workers/windows/win-982773c5fc86/manifest.html",
-  "build_date": "2026-10-14T08:29:30Z",
-  "git_sha": "15d9ba4aca7d9619ccb2cd5539fd3677cb04b94b"
+  "manifest_url": "https://npowl.github.io/Demo-Repo/workers/windows/win-56fa3e131926/manifest.html",
+  "build_date": "2026-11-01T11:47:04Z",
+  "git_sha": "ed401d58f2ae70f1a150fa062b8ac004b4486e05"
 }
